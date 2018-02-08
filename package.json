@@ -1,0 +1,19 @@
+{
+  "name": "nodepattern",
+  "version": "1.0.0",
+  "description": "",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "author": "",
+  "license": "ISC",
+  "dependencies": {
+    "grunt": "^1.0.1",
+    "mocha": "^5.0.0"
+  },
+  "devDependencies": {
+    "grunt-contrib-jshint": "^1.1.0",
+    "should": "^13.2.1"
+  }
+}
